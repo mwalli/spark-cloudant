@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 17 10:24:01 CDT 2017
+spark-sql-cloudant_2.11-2.2.0-SNAPSHOT-sources.jar>=
+spark-sql-cloudant_2.11-2.2.0-SNAPSHOT.jar>=
+spark-sql-cloudant_2.11-2.2.0-SNAPSHOT-tests.jar>=
+spark-sql-cloudant_2.11-2.2.0-SNAPSHOT-javadoc.jar>=
+spark-sql-cloudant_2.11-2.2.0-SNAPSHOT-test-sources.jar>=
+spark-sql-cloudant_2.11-2.2.0-SNAPSHOT.pom>=

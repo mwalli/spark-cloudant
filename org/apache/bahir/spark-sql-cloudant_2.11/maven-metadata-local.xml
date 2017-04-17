@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.bahir</groupId>
+  <artifactId>spark-sql-cloudant_2.11</artifactId>
+  <versioning>
+    <versions>
+      <version>2.2.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170417152401</lastUpdated>
+  </versioning>
+</metadata>
